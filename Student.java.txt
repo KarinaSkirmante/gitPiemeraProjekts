@@ -4,5 +4,8 @@ public class Student{
 
 	private String name;
 	private String surname;
+	private String personalCode;
+	private byte age;
+	//japapildina ar set un get funkcijām
 	
 }
