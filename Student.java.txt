@@ -1,5 +1,9 @@
 package service;
+
 //sī klase tiks rediģeta no veaTest zara
+
+//te būs nmerg konflikts
+
 public class Student{
 
 	private String name;
