@@ -1,2 +1,4 @@
 password: 1234
 //paroles nedrīkst rakstīt failos, ko ievietos ārēja repozitorijā!!!
+
+izņēmums - ja ārejais repozitorijs ir privāts
