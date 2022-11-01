@@ -1,5 +1,5 @@
 package service;
-
+//sī klase tiks rediģeta no veaTest zara
 public class Student{
 
 	private String name;
